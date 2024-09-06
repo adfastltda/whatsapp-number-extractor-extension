@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "WhatsApp Number Extractor",
+    "description": "Um leitor de contatos para o whatsapp web desenvolvido pela ATA software, editado e revisado por @ADFASTLTDA",
+    "version": "1.0.3",
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "ico.png"
+    }
+  }
